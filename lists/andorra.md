@@ -1,5 +1,5 @@
-<h1>Andorra</h1>
+<h1>Demo</h1>
 
 | #    | Channel        | Link  | Logo | EPG id |
 |:----:|:--------------:|:-----:|:----:|:------:|
-| 1 | Andorra TV  | [>](https://videos.rtva.ad/live/rtva/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png"/> | AndorraTV.ad |
+| 1 | DEMO TEST | [>]([https://videos.rtva.ad/live/rtva/playlist.m3u8](https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8)) 
